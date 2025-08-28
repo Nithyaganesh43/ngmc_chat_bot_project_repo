@@ -149,41 +149,45 @@ def continue_chat(request, chat_id):
     })
     return add_cors_headers(request, resp)
 
+
 @csrf_exempt
 def get_chats(request):
     if request.method == "OPTIONS":
         resp = HttpResponse(status=204)
         return add_cors_headers(request, resp)
     
-    auth_error, user = user_auth_middleware(request)
-    if auth_error:
-        return add_cors_headers(request, auth_error)
+    if request.method != 'GET': 
+        return JsonResponse({"error":"GET required"}, status=405)
     
-    chats_data = []
-    
-    for chat in Chat.all():
-        conversations = Conversation.filter_by_chat(chat)
+    try:
+        all_chats = Chat.get_all()
+        chats_data = []
         
-        chat_data = {
-            'id': str(chat.id),
-            'title': chat.title,
-            'user_id': str(chat.user_id) if chat.user_id else None,
-            'created_at': chat.created_at.isoformat(),
-            'conversations': [
-                {
-                    'id': str(conv.id),
-                    'role': conv.role,
-                    'message': conv.message,
-                    'created_at': conv.created_at.isoformat()
-                }
-                for conv in conversations
-            ]
-        }
-        chats_data.append(chat_data)
+        for chat in all_chats:
+            conversations = Conversation.filter_by_chat(chat)
+            chat_data = {
+                'id': str(chat.id),
+                'title': chat.title,
+                'user_id': str(chat.user_id) if chat.user_id else None,
+                'created_at': chat.created_at.isoformat(),
+                'conversations': [
+                    {
+                        'id': str(conv.id),
+                        'role': conv.role,
+                        'message': conv.message,
+                        'created_at': conv.created_at.isoformat()
+                    }
+                    for conv in conversations
+                ]
+            }
+            chats_data.append(chat_data)
+        
+        resp = JsonResponse(chats_data, safe=False)
+        return add_cors_headers(request, resp)
+    except Exception as e:
+        print(f"Error fetching chats: {e}")
+        return JsonResponse({"error": "Failed to fetch chats"}, status=500)
     
-    resp = JsonResponse(chats_data, safe=False)
-    return add_cors_headers(request, resp)
-
 @csrf_exempt
 def get_user_chats(request):
     if request.method == "OPTIONS":
