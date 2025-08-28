@@ -1,0 +1,80 @@
+exam_schedule: 
+        B_A-TAMIL-TEST-I-AUGUST-2025: https://coe.ngmc.ac.in/wp-content/uploads/files/timetable/B_A-TAMIL-TEST-I-AUGUST-2025.pdf
+        PG-1TT-F_N-TEST-I-AUGUST-2025: https://coe.ngmc.ac.in/wp-content/uploads/files/timetable/PG-1TT-F_N-TEST-I-AUGUST-2025.pdf
+        PG-3TT-F_N-TEST-I-AUGUST-2025: https://coe.ngmc.ac.in/wp-content/uploads/files/timetable/PG-3TT-F_N-TEST-I-AUGUST-2025.pdf
+        PG-SF-1-TT-TEST-I-AUGUST-2025: https://coe.ngmc.ac.in/wp-content/uploads/files/timetable/PG-SF-1-TT-TEST-I-AUGUST-2025.pdf
+        PG-SF-3-TT-TEST-I-AUGUST-2025: https://coe.ngmc.ac.in/wp-content/uploads/files/timetable/PG-SF-3-TT-TEST-I-AUGUST-2025.pdf
+        UG-1TT-F_N-TEST-I-AUGUST-2025: https://coe.ngmc.ac.in/wp-content/uploads/files/timetable/UG-1TT-F_N-TEST-I-AUGUST-2025.pdf
+        UG-3TT-F_N-TEST-I-AUGUST-2025: https://coe.ngmc.ac.in/wp-content/uploads/files/timetable/UG-3TT-F_N-TEST-I-AUGUST-2025.pdf
+        UG-5TT-F_N-TEST-I-AUGUST-2025: https://coe.ngmc.ac.in/wp-content/uploads/files/timetable/UG-5TT-F_N-TEST-I-AUGUST-2025.pdf
+        UG-SF-1-TT-AN-New-TEST-I-AUGUST-2025: https://coe.ngmc.ac.in/wp-content/uploads/files/timetable/UG-SF-1-TT-AN-New-TEST-I-AUGUST-2025.pdf
+        UG-SF-1TT-AN-II-new-TEST-I-AUGUST-2025: https://coe.ngmc.ac.in/wp-content/uploads/files/timetable/UG-SF-1TT-AN-II-new-TEST-I-AUGUST-2025.pdf
+        UG-SF-3-TT-AN-II-TEST-I-AUGUST-2025: https://coe.ngmc.ac.in/wp-content/uploads/files/timetable/UG-SF-3-TT-AN-II-TEST-I-AUGUST-2025.pdf
+        UG-SF-3TT-AN-TEST-I-AUGUST-2025: https://coe.ngmc.ac.in/wp-content/uploads/files/timetable/UG-SF-3TT-AN-TEST-I-AUGUST-2025.pdf
+        UG-SF-5-TT-FN-TEST-I-AUGUST-2025: https://coe.ngmc.ac.in/wp-content/uploads/files/timetable/UG-SF-5-TT-FN-TEST-I-AUGUST-2025.pdf
+    
+    fee_structure: 
+        AIDED-FEES-STRUCTURE-2017-2018: http://ngmc.org/wp-content/uploads/2018/06/AIDED-FEES-STRUCTURE-2017-2018.pdf
+        Fee-Structure-2018-2019: http://ngmc.org/wp-content/uploads/2021/04/Fee-Structure-2018-2019.pdf
+        Fees-Structure: http://ngmc.org/wp-content/uploads/2019/07/Fees-Structure.pdf
+        Fee-Structure-2020-2021: http://ngmc.org/wp-content/uploads/2021/04/Fee-Structure-2020-2021.pdf
+    
+    seating_arrangements: 
+        SF-TEST-I-SEATING-ARRANGEMENT-23_08_2025-FN: https://coe.ngmc.ac.in/wp-content/uploads/files/Seating/SF-TEST-I-SEATING-ARRANGEMENT-23_08_2025-FN.pdf
+    
+    syllabus: 
+        BA-Economics: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/BA-Economics&eeFront=1&eeListID=1&ee=1
+        BA-English: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/BA-English&eeFront=1&eeListID=1&ee=1
+        BA-History: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/BA-History&eeFront=1&eeListID=1&ee=1
+        BBA: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/BBA&eeFront=1&eeListID=1&ee=1
+        BCA: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/BCA&eeFront=1&eeListID=1&ee=1
+        BCOM-Banking-Insurance: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/BCOM-Banking-Insurance&eeFront=1&eeListID=1&ee=1
+        BCOM-BPS: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/BCOM-BPS&eeFront=1&eeListID=1&ee=1
+        BCOM-CA: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/BCOM-CA&eeFront=1&eeListID=1&ee=1
+        BCOM-ECOM: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/BCOM-ECOM&eeFront=1&eeListID=1&ee=1
+        BCOM-FINANCE: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/BCOM-FINANCE&eeFront=1&eeListID=1&ee=1
+        BCOM-IB: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/BCOM-IB&eeFront=1&eeListID=1&ee=1
+        BCOM-PA: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/BCOM-PA&eeFront=1&eeListID=1&ee=1
+        BCOM-SF: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/BCOM-SF&eeFront=1&eeListID=1&ee=1
+        BCOM: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/BCOM&eeFront=1&eeListID=1&ee=1
+        BSW: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/BSW&eeFront=1&eeListID=1&ee=1
+        B_Sc_-Botany: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/B_Sc_-Botany&eeFront=1&eeListID=1&ee=1
+        B_Sc_-Chemistry: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/B_Sc_-Chemistry&eeFront=1&eeListID=1&ee=1
+        B_Sc_-CS-with-AI-ML: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/B_Sc_-CS-with-AI-ML&eeFront=1&eeListID=1&ee=1
+        B_Sc_-CS-with-DA: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/B_Sc_-CS-with-DA&eeFront=1&eeListID=1&ee=1
+        B_Sc_-CS: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/B_Sc_-CS&eeFront=1&eeListID=1&ee=1
+        B_Sc_-CT: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/B_Sc_-CT&eeFront=1&eeListID=1&ee=1
+        B_Sc_-IT: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/B_Sc_-IT&eeFront=1&eeListID=1&ee=1
+        B_Sc_-Maths: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/B_Sc_-Maths&eeFront=1&eeListID=1&ee=1
+        B_Sc_-Physics: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/B_Sc_-Physics&eeFront=1&eeListID=1&ee=1
+        B_Sc_-Zoology: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/B_Sc_-Zoology&eeFront=1&eeListID=1&ee=1
+        B_Sc_CS-SF: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/B_Sc_CS-SF&eeFront=1&eeListID=1&ee=1
+        Human-Excellence: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/Human-Excellence&eeFront=1&eeListID=1&ee=1
+        MA-ENGLISH: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/MA-ENGLISH&eeFront=1&eeListID=1&ee=1
+        MCOM-CA: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/MCOM-CA&eeFront=1&eeListID=1&ee=1
+        MCOM-IB: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/MCOM-IB&eeFront=1&eeListID=1&ee=1
+        MCOM: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/MCOM&eeFront=1&eeListID=1&ee=1
+        MSW: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/MSW&eeFront=1&eeListID=1&ee=1
+        M_Sc_-Maths: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/M_Sc_-Maths&eeFront=1&eeListID=1&ee=1
+        M_Sc_-Physics: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/M_Sc_-Physics&eeFront=1&eeListID=1&ee=1
+        M_Sc_Botany: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/M_Sc_Botany&eeFront=1&eeListID=1&ee=1
+        M_Sc_Chemistry: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/M_Sc_Chemistry&eeFront=1&eeListID=1&ee=1
+        M_Sc_CS: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/M_Sc_CS&eeFront=1&eeListID=1&ee=1
+        PART-I-TAMIL: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/PART-I-TAMIL&eeFront=1&eeListID=1&ee=1
+        PART-II-ENGLISH: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/PART-II-ENGLISH&eeFront=1&eeListID=1&ee=1
+        Tamil-Literature-UG_PG: https://www.ngmc.org/syllabus-list-2/?eeFolder=syllabus/Tamil-Literature-UG_PG&eeFront=1&eeListID=1&ee=1
+        2019-2020-Syllabus.pdf: https://www.ngmc.org/cdn/uploads/website/syllabus/2019-2020-Syllabus.pdf
+        2020-2021Syllabus.pdf: https://www.ngmc.org/cdn/uploads/website/syllabus/2020-2021Syllabus.pdf
+        2021-2022-Syllabus.pdf: https://www.ngmc.org/cdn/uploads/website/syllabus/2021-2022-Syllabus.pdf
+        2022-2023-Syllabus.pdf: https://www.ngmc.org/cdn/uploads/website/syllabus/2022-2023-Syllabus.pdf
+        2023-2024-Syllabus.pdf: https://www.ngmc.org/cdn/uploads/website/syllabus/2023-2024-Syllabus.pdf
+        APD-Syllabus-5-6-Sem-All-3rd-Yrs-2018-19.pdf: https://www.ngmc.org/cdn/uploads/website/syllabus/APD-Syllabus-5-6-Sem-All-3rd-Yrs-2018-19.pdf
+        APD-Syllabus-5-6-Sem-All-3rd-Yrs-2019-20.pdf: https://www.ngmc.org/cdn/uploads/website/syllabus/APD-Syllabus-5-6-Sem-All-3rd-Yrs-2019-20.pdf
+        APD-Syllabus-5-6-Sem-All-3rd-Yrs-2020-21.pdf: https://www.ngmc.org/cdn/uploads/website/syllabus/APD-Syllabus-5-6-Sem-All-3rd-Yrs-2020-21.pdf
+        APD-Syllabus-5-6-Sem-All-3rd-Yrs-2021-22.pdf: https://www.ngmc.org/cdn/uploads/website/syllabus/APD-Syllabus-5-6-Sem-All-3rd-Yrs-2021-22.pdf
+        APD-Syllabus-5-6-Sem-All-3rd-Yrs-2022-23.pdf: https://www.ngmc.org/cdn/uploads/website/syllabus/APD-Syllabus-5-6-Sem-All-3rd-Yrs-2022-23.pdf
+        APD-Syllabus-5-6-Sem-All-3rd-Yrs-2023-24.pdf: https://www.ngmc.org/cdn/uploads/website/syllabus/APD-Syllabus-5-6-Sem-All-3rd-Yrs-2023-24.pdf
+        APD-Syllabus-5-6-Sem-All-3rd-Yrs-2024-25.pdf: https://www.ngmc.org/cdn/uploads/website/syllabus/APD-Syllabus-5-6-Sem-All-3rd-Yrs-2024-25.pdf
+        MSW-Syllabus-2019-2021.pdf: https://www.ngmc.org/cdn/uploads/website/syllabus/MSW-Syllabus-2019-2021.pdf
+        PIB-2018-2020.pdf: https://www.ngmc.org/cdn/uploads/website/syllabus/PIB-2018-2020.pdf
+        PIB-2025---2027.pdf: https://www.ngmc.org/cdn/uploads/website/syllabus/PIB-2025-2027.pdf

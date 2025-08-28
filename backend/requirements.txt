@@ -1,0 +1,7 @@
+django
+djangorestframework
+requests
+beautifulsoup4
+python-dotenv
+openai
+pymongo
