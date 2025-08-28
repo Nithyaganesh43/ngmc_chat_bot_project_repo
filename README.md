@@ -249,7 +249,7 @@ Response:
 #### 4. Get All Chats
 ```
 POST /getchat/
-Purpose: Retrieve all chat sessions (admin function)
+Purpose: Retrieve all chat sessions perticularly for each user based on authentication
 Headers:
   - Content-Type: application/json
 Request Body:

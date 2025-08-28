@@ -123,7 +123,7 @@ backend/
 - `POST /checkAuth/` - User authentication
 - `POST /postchat/` - Start new chat
 - `POST /postchat/<chat_id>/` - Continue existing chat
-- `POST /getchat/` - Get all chats
+- `POST /getchat/` - Get all chats of user
 - `POST /getuserchats/` - Get user-specific chats
 
 The system provides a complete backend solution for an educational institution's chatbot needs, combining AI intelligence with real-time data scraping and robust user management.
